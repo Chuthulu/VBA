@@ -1,2 +1,2 @@
-# VBA
-Initial repository.  I designed for working with Visual Studio Professional 13.
+# Programming
+Initial repository.  Originally designed for VBA back in the day.  Since then, moved on from VBA and R to C++ and SQL.
